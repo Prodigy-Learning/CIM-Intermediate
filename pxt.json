@@ -54,8 +54,12 @@
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "1.5.30",
+        "targetId": "minecraft"
+    },
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
